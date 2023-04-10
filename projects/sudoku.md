@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](../)
 
 Sudoku Game
 ===============
@@ -66,4 +66,4 @@ Once the game has been launched, the player is greeted with the main menu screen
 - Only the top three scores are recorded on the leaderboard. If the player wins but does not make the leaderboard, they will not be prompted to enter their initials.
 - A video of a presentation of this project can be viewed [here](/images/sudoku/sudoku.mp4).
 
-[Back to Portfolio](./)
+[Back to Portfolio](../)
