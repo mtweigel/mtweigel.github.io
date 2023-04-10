@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:mtweigel@csustuden.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -31,36 +31,36 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics or Profits?](/pdf/ethicsorprofits.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI 325
+-   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Intellectual Property or Public Domain?](/pdf/intellectualproperty.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 332
+-   **Grade:** B
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [How Much Testing is Enough?](/pdf/howmuchtesting.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 315
+-   **Grade:** A
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Colonial Pipeline Ransomeware Attack](/pdf/piplineattack.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 301
+- **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Target Data Breach](/pdf/targetbreach.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 405
+- **Grade:** A
 
 ---
 
