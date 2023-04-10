@@ -40,7 +40,7 @@ Once the game is launched the user is welcomed and told to hit Enter to begin pl
 
 *Fig 3. Guess is too low.*
 
-![screenshot](/images/sudoku/numberguessing/toolow.PNG)
+![screenshot](/images/numberguessing/toolow.PNG)
 
 *Fig 4. Guess is too high.*
 
