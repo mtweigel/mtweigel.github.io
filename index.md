@@ -22,9 +22,9 @@ Programming Projects
 ![Rae's Riding Lessons](images/raesridinglessons/frontpage.PNG)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Magic Number Guessing Game | CSCI 301](projects/numberguessing)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Magic Number Guessing Game](images/numberguessing/winner.PNG)
 
 ---
 
