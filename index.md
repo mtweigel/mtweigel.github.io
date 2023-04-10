@@ -7,9 +7,9 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:mtweigel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Sudoku Game | CSCI 325](projects/sudoku)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Sudoku](images/sudoku/easy.PNG)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
