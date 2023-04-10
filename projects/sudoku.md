@@ -7,7 +7,7 @@ Sudoku Game
 -   **Class:** CSCI 325
 -   **Grade:** A
 -   **Language(s):** Java
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/mtweigel/Sudoku)  
+-   **Source Code Repository:** [mtweigel/Sudoku](https://github.com/mtweigel/Sudoku)  
     (Please [email me](mailto:mtweigel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
