@@ -7,43 +7,56 @@ Sudoku Game
 -   **Class:** CSCI 325
 -   **Grade:** A
 -   **Language(s):** Java
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/mtweigel/Sudoku)  
     (Please [email me](mailto:mtweigel@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project is a Sudoku game that includes features such as selectable difficulty levels, a leaderboard showcasing high scores based on lowest times to solve, and an auto-solver, all packaged in a user-friendly and interactive GUI.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to run the program from the Windows Command Prompt. 
+
+1. Open Command Prompt.
+2. Navigate to the directory where the project is located.
+3. Enter the following commands:
 
 ```bash
-cd ./project
-python setup.py
+$ cd Sudoku/dist
+$ java -jar "Sudoku.jar"
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Once the game has been launched, the player is greeted with the main menu screen (See Fig 1). If the player selects one of the difficulty buttons of easy, medium, or hard, a valid Sudoku board is given (See Fig 2). The player will then attempt to solve the board by entering numbers from 1-9 into the empty boxes on the board while a timer counts up. If the player does not like the board given or wants to play a lower/higher difficulty, they may do so at any time by selected either the same or different difficulty. If the player becomes stuck at any time or wants to see the solution, they can select the "Show Solution" button which prompts the program to solve the board for them and shows the player which of their entries were incorrect by highlighting them in yellow (See Fig 3). Once the player thinks they have solved the board, they can select the "Check Solution. If the user entries are incorrect, the game will notify them that they failed to solve Sudoku and highlights all incorrect entries in red (See Fig 4). They can then chosoe to show soltion or pick a diffulty to play again. On the other hard, if the user is was able to solve Sudoku (See Fig 5), and the attempt is a new top three score, they will be congratulated and prompted to enter their initials (See Fig 6). The leaderboard then will be updated accordingly. At this point, the player can either choose a difficulty to play again, or can quit by hitting "Quit Game".
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+Fig 1. The main menu
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. After easy difficulty is selected
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 3. After selecting Show Solution.
 
-## 3. Additional Considerations
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 4. After selecting Check Solution (incorrect).
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 5. After selecting Check Solution (correct).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 6. New high score!
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 7. Updated leaderboard.
+
+## Additional Considerations
+
+- Boards and high scores are stored in text files for easy retrieval.
+- There are only 5 boards for each difficulty level. Once the player has played on all the boards of one diffulty, they can only select one of the other two.
+- Only the top three scores are recorded on the leaderboard. If the player wins but does not make the leaderboard, they will not be prompted to enter their initials.
+- A video of a presentation of this project can be viewed here.
 
 [Back to Portfolio](./)
