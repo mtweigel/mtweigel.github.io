@@ -12,9 +12,9 @@ Programming Projects
 ![Sudoku](images/sudoku/easy.PNG)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Minimum Overlap Coverage | CSCI 315](projects/minimumoverlap)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Minimum Overlap Coverage](images/minimumoverlap/small30plot.PNG)
 
 ---
 ### [Rae's Riding Lessons | CSCI 495](projects/raesridinglessons)
