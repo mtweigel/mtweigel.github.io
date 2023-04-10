@@ -35,27 +35,27 @@ Once the game has been launched, the player is greeted with the main menu screen
 
 ![screenshot](/images/sudoku/mainmenu.PNG)
 
-*Fig 2. After easy difficulty is selected
+*Fig 2. After easy difficulty is selected*
 
 ![screenshot](/images/sudoku/easy.PNG)
 
-*Fig 3. After selecting Show Solution.
+*Fig 3. After selecting Show Solution.*
 
 ![screenshot](/images/sudoku/showsolution.PNG)
 
-*Fig 4. After selecting Check Solution (incorrect).
+*Fig 4. After selecting Check Solution (incorrect).*
 
 ![screenshot](/images/sudoku/incorrect.PNG)
 
-*Fig 5. After selecting Check Solution (correct).
+*Fig 5. After selecting Check Solution (correct).*
 
 ![screenshot](/images/sudoku/correct.PNG)
 
-*Fig 6. New high score!
+*Fig 6. New high score!*
 
 ![screenshot](/images/sudoku/highscore.PNG)
 
-*Fig 7. Updated leaderboard.
+*Fig 7. Updated leaderboard.*
 
 ![screenshot](/images/sudoku/leaderboard.PNG)
 
