@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Rae's Riding Lessons | CSCI 495](projects/raesridinglessons)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Rae's Riding Lessons](images/raesridinglessons/frontpage.PNG)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
