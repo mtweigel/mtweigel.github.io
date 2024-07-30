@@ -3,7 +3,6 @@
 FlickFix Video Editor
 ===============
 
--   **Groupmates:** None
 -   **Class:** CSCI 497, 498, 499
 -   **Grade:** A
 -   **Language(s):** C++
