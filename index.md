@@ -63,7 +63,7 @@ Presentations
 - **Grade:** A
   
 
-- ### [FlickFix Senior Project](/pdf/FlickFix Presentation.pdf)
+### [FlickFix Senior Project](/pdf/FlickFix Presentation.pdf)
 
 - **Class:** CSCI 499
 - **Grade:** A
