@@ -7,9 +7,14 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:mtweigel@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
+### [FlickFix Video Editor | CSCI 498](projects/flickfix)
+
+![FlickFix Video Editor](images/flickfix/flickfix.PNG)
+
+---
 ### [Sudoku Game | CSCI 325](projects/sudoku)
 
-![Sudoku](images/sudoku/easy.PNG)
+![Sudoku Game](images/sudoku/easy.PNG)
 
 ---
 ### [Minimum Overlap Coverage | CSCI 315](projects/minimumoverlap)
