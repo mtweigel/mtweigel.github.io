@@ -63,12 +63,6 @@ Presentations
 - **Grade:** A
   
 
-### [Target Data Breach](/pdf/targetbreach.pdf)
-
-- **Class:** CSCI 405
-- **Grade:** A
-  
-
 ### [FlickFix Senior Project](/pdf/FlickFix_Presentation.pdf)
 
 - **Class:** CSCI 499
