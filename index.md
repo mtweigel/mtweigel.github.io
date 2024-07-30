@@ -61,8 +61,14 @@ Presentations
 
 - **Class:** CSCI 405
 - **Grade:** A
+  
+
+- ### [FlickFix Senior Project](/pdf/FlickFix Presentation.pdf)
+
+- **Class:** CSCI 499
+- **Grade:** A
 
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
-<!-- Remove above link if you don't want to attributive -->
+<!-- Remove the above link if you don't want to attribute -->
