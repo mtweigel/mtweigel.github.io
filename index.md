@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [FlickFix Video Editor | CSCI 498](projects/flickfix)
 
-![FlickFix Video Editor](images/flickfix/flickfix.PNG)
+![FlickFix Video Editor](images/flickfix/FlickFix.PNG)
 
 ---
 ### [Sudoku Game | CSCI 325](projects/sudoku)
