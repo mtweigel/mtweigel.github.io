@@ -120,7 +120,7 @@ You also have the option to add a simple intro or outro to your video. To do so 
 
 *Fig 10. Intro/Outro creator.*
 
-![screenshot](/images/flickfix/addaudio.PNG)
+![screenshot](/images/flickfix/introcreator.PNG)
 
 ### Taking a Screenshot
 
@@ -130,15 +130,15 @@ Another feature that FlickFix provides is the ability to take a screenshot of a 
 
 FlickFix has one theme customization option, the ability to change the user interface to Dark mode or back to Light mode. To do so, press 'Options' -> 'Theme' -> 'Dark mode' or 'Light mode'. See Fig 11. This change updates all of the UI including the loading bar and Intro/Outro creator and is persistent even after closing the application.
 
-*Fig 11. Intro/Outro creator.*
+*Fig 11. FlickFix after Dark mode is selected.*
 
-![screenshot](/images/flickfix/introcreator.PNG)
+![screenshot](/images/flickfix/darkmode.PNG)
 
 ### The Tutorial
 
 There is also a FlickFix tutorial available for people who would like to know how to use each feature of the application. To view it press 'Help' -> 'Tutorial'. This brings up a separate tutorial window with a side menu bar for each feature. See Fig 12. Pressing the various features in the side menu brings up the tutorial for each one.
 
-*Fig 11. The FlickFix tutorial.*
+*Fig 12. The FlickFix tutorial.*
 
 ![screenshot](/images/flickfix/tutorial.PNG)
 
